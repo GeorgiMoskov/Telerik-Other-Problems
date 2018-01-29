@@ -1,4 +1,4 @@
-let n = 3;
+let n = 4;
 let matrix = Array.from({
     length: n
 });
